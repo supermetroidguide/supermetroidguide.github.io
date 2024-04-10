@@ -1,0 +1,16 @@
+body{
+    background-image: url("images/redmarble.jpg");
+    color: #ffff00;
+}
+
+a:link{
+    color: #ff0000;
+}
+
+a:active{
+    color: #FFFFFF;
+}
+
+a:visited{
+    color: #FF0000;
+}
